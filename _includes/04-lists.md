@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+* Website Design
+* Baking
+* Killing House Plants
+* Travel 
