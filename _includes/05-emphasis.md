@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* *Speaks english, french and some spanish*
+* **Bakes cookies when stressed**
+* _*Likes to browse skyscanner for sweet deals*_
